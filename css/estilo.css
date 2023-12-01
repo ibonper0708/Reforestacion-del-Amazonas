@@ -1,1 +1,71 @@
+body {
+    background-color: #A3E4D7
+}
 
+header {
+    background-color: #48C9B0;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+
+   }
+   
+   #titulo {
+        margin-bottom: 15px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        font-family: Georgia, serif;
+        text-shadow: inherit;
+        letter-spacing: .2rem;
+   }
+
+  #menuPrincipal {
+    background-color: #76D7C4;
+    
+   }
+
+   nav ul {
+    list-style: none;
+    padding: 0px;
+   }
+
+   #menuPrincipal ul li {
+    display: inline;
+    margin: 0px 15px;
+   }
+
+   .enlaceMenuPrincipal {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-color:rgb(108, 245, 108);
+    border-style: solid;
+    border-width: medium;
+   }
+    a:hover {
+        color:grey;
+        background:white;
+   }
+
+   .tituloSeccion {
+    background-color: #48C9B0;
+    color: #fff;
+    padding: 10px;
+   }
+
+   article {
+    border: 1px solid #ccc;
+    background-color:#fff;
+    margin-bottom: 10px;
+    padding: 10px;
+   }
+
+   footer {
+    background-color: #48C9B0;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+   }
+   

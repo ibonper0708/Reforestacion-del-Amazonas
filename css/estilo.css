@@ -68,11 +68,3 @@ header {
     padding: 10px;
     margin-bottom: 20px;
    }
-
-#contenedorFormulario {
-    max-width: 500px;
-    margin: auto;
-    margin-top: 30px;
-    background-image: url("../img/hoja.png");
-    background-repeat: no-repeat;
-    background-size: cover; 
